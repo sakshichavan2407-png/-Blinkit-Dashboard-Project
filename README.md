@@ -40,9 +40,6 @@ The goal of this project is to turn raw grocery sales data into clear, actionabl
 - `BLINKIT_DASHBOARD_PROJECT_.xlsx`: the complete dashboard and dataset
 - `images/dashboard.png`: dashboard screenshot
 
-## Dashboard Preview
-![Dashboard](images/dashboard.png)
-
 ## How to Use
 Download the `.xlsx` file and open it in Microsoft Excel. Use the slicers on the dashboard sheet to filter the data interactively.# -Blinkit-Dashboard-Project
 # Blinkit Grocery Sales Dashboard (Excel)  An interactive Excel dashboard that analyses Blinkit grocery sales data across items, outlets and locations, built with pivot tables, charts and slicers.
